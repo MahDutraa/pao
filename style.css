@@ -1,4 +1,36 @@
-header{
-    backgroud-color: #383DS8
-} 
-.cabecalho-imagem{} 
+* {
+  margin:0:
+  padding:0:
+}
+cabecalho {
+  background-color:424E61:
+color:white;
+display:flex;
+justify-content:apace-arround;
+align-itens:centen;
+padding:24px 0;
+}
+.cabecalho-imagem {
+  wudth:20%
+}
+.cabecalho-luta-item{
+  display:inline-block
+  margin:0 16px;
+  font-size:24px;
+  ]
+    .escola-imagem{
+        widht: 25%
+    }
+    .escola{
+        background-image:linear-gradiend(#424E61,#16CFF8);
+        color:white;
+        display:flex;
+        justify-context:center;
+        align-itens:center;
+        padding:24px 0:
+    .escola-du-conteudo 
+       widht:35%;
+    }
+    .escola-titulo {
+           padding: 24px 0;
+       }
